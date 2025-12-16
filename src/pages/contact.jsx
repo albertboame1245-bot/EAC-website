@@ -205,7 +205,7 @@ ${formData.message}
               Connect with Electrical Excellence
             </h1>
             <p className="text-xl text-gray-600 max-w-3xl mx-auto leading-relaxed">
-              Partner with Ghana's premier electrical engineering specialists for industrial, mining, and commercial solutions
+              Partner with Ghana's premier electrical engineering specialists for industrial, mining, and commercial solutions with the best expertise.
             </p>
           </div>
         </div>
