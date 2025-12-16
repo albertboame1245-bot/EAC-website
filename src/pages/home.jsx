@@ -21,7 +21,7 @@ const backgroundImages = [
 // Hero content array that corresponds to each background image
 const heroContent = [
   {
-    title: "EAC ELECTRICAL SOLUTION LIMITED",
+    title: "EACssss ELECTRICAL SOLUTION LIMITED",
     subtitle: "Powering Newmont Ghana's Mining Operations",
     description: "As a premier electrical contractor for Newmont Ghana, we specialize in industrial-grade electrical solutions for mining operations with certified professionals and cutting-edge technology.",
     ctaText: "Request Quotes"
